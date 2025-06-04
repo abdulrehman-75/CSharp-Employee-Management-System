@@ -1,0 +1,15 @@
+D:\Program Files\C# practice\management\obj\Debug\management.csproj.AssemblyReference.cache
+D:\Program Files\C# practice\management\obj\Debug\management.Form1.resources
+D:\Program Files\C# practice\management\obj\Debug\management.csproj.GenerateResource.cache
+D:\Program Files\C# practice\management\bin\Debug\management.exe.config
+D:\Program Files\C# practice\management\bin\Debug\management.exe
+D:\Program Files\C# practice\management\bin\Debug\management.pdb
+D:\Program Files\C# practice\management\obj\Debug\management.Properties.Resources.resources
+D:\Program Files\C# practice\management\obj\Debug\management.csproj.CoreCompileInputs.cache
+D:\Program Files\C# practice\management\obj\Debug\management.exe
+D:\Program Files\C# practice\management\obj\Debug\management.pdb
+D:\Program Files\C# practice\management\obj\Debug\management.registerForm.resources
+D:\Program Files\C# practice\management\obj\Debug\management.mainForm.resources
+D:\Program Files\C# practice\management\obj\Debug\management.addEmployee.resources
+D:\Program Files\C# practice\management\obj\Debug\management.dashboard.resources
+D:\Program Files\C# practice\management\obj\Debug\management.salary.resources
